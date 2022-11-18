@@ -1,0 +1,4 @@
+if(arremessando)
+{
+	gravity = gra
+}

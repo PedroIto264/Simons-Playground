@@ -4,6 +4,8 @@
   "name": "Simon's Playground",
   "resources": [
     {"id":{"name":"spr_player_segurando_bola","path":"sprites/spr_player_segurando_bola/spr_player_segurando_bola.yy",},"order":2,},
+    {"id":{"name":"room_menu","path":"rooms/room_menu/room_menu.yy",},"order":1,},
+    {"id":{"name":"obj_botao_iniciar","path":"objects/obj_botao_iniciar/obj_botao_iniciar.yy",},"order":4,},
     {"id":{"name":"obj_cesta","path":"objects/obj_cesta/obj_cesta.yy",},"order":3,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
     {"id":{"name":"obj_bola","path":"objects/obj_bola/obj_bola.yy",},"order":2,},
@@ -12,6 +14,7 @@
     {"id":{"name":"obj_game_manager","path":"objects/obj_game_manager/obj_game_manager.yy",},"order":1,},
     {"id":{"name":"spr_bola","path":"sprites/spr_bola/spr_bola.yy",},"order":1,},
     {"id":{"name":"motion_bola","path":"scripts/motion_bola/motion_bola.yy",},"order":0,},
+    {"id":{"name":"spr_botao_iniciar","path":"sprites/spr_botao_iniciar/spr_botao_iniciar.yy",},"order":4,},
     {"id":{"name":"room_teste","path":"rooms/room_teste/room_teste.yy",},"order":0,},
   ],
   "Options": [
@@ -29,6 +32,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"room_menu","path":"rooms/room_menu/room_menu.yy",},},
     {"roomId":{"name":"room_teste","path":"rooms/room_teste/room_teste.yy",},},
   ],
   "Folders": [

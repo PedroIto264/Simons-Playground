@@ -1,0 +1,11 @@
+Principal:
+Terminar a UI
+Terminar a parábola
+Implementar a matemática
+
+Secundário:
+Arrumar o background
+Arrumar as colisões
+Arrumar os sprites de objetos que não aparecem na tela
+Conseguir uma bola decente
+Conseguir um sprite pro player

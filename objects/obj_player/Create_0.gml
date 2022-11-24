@@ -41,10 +41,13 @@ state_segurando_bola = function() //Esse state vai ser a mesma coisa que o livre
 	x += velocidade
 	
 	//Se o player apertar espaço enquanto segura abola, entrará no estado de arremesso
-	if key_espaco 
+	if key_teste2 and state = state_segurando_bola
 	{
 		state = state_arremessando
+		instance_create_layer(obj_player.x, obj_player.y, "Bola", obj_bola)
 	}
+	
+	
 	
 	sprite_index = spr_player_segurando_bola
 }

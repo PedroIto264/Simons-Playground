@@ -1,8 +1,8 @@
  /// @description Insert description here
 // You can write your code in this editor
-speedb = 20;
+speedb = 10;
 angle = 45;
 
-grav = .75;
+grav = .5;
 
 shoot = false;

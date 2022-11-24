@@ -1,6 +1,6 @@
 Principal:
 Terminar a UI
-Terminar a parábola
+-Terminar a parábola
 Implementar a matemática
 
 Secundário:

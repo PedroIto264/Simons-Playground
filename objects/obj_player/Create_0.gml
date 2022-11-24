@@ -13,7 +13,7 @@ state_livre = function() //Estado quando o player nao estiver segurando uma bola
 	//Código de movimentação
 	input = key_direita - key_esquerda
 
-	velocidade += input * aceleracao
+	velocidade += input * aceleracao 
 
 	if input == 0
 	{

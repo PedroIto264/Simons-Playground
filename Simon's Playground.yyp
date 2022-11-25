@@ -20,6 +20,7 @@
     {"id":{"name":"spr_quadrado","path":"sprites/spr_quadrado/spr_quadrado.yy",},"order":8,},
     {"id":{"name":"spr_bola","path":"sprites/spr_bola/spr_bola.yy",},"order":1,},
     {"id":{"name":"room_tutorial","path":"rooms/room_tutorial/room_tutorial.yy",},"order":2,},
+    {"id":{"name":"obj_toca_musica","path":"objects/obj_toca_musica/obj_toca_musica.yy",},"order":2,},
     {"id":{"name":"obj_destruidor_de_bolas","path":"objects/obj_destruidor_de_bolas/obj_destruidor_de_bolas.yy",},"order":0,},
     {"id":{"name":"motion_bola","path":"scripts/motion_bola/motion_bola.yy",},"order":0,},
     {"id":{"name":"obj_quadrado_vermelho","path":"objects/obj_quadrado_vermelho/obj_quadrado_vermelho.yy",},"order":1,},

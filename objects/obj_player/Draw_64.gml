@@ -1,4 +1,5 @@
 //Só para mostrar se as coisas estão sendo atualizadas
+/*
 if state = state_livre 
 {
 	draw_text(50,50, "state = state_livre")
@@ -15,7 +16,15 @@ else
 	draw_text(50, 75, "0")
 }
 
+draw_text(50, 75, velocidade)
+*/
+if room != room_tutorial
+{
+	draw_text(350,50, "1 = Segura a Bola")
+	draw_text(350,75, "Espaço = Arremessa a Bola")
+	draw_text(350, 100, "3 = Sem a Bola")
 
+}
 
 if room = room_tutorial and state = state_livre
 {
@@ -34,4 +43,8 @@ else if room = room_tutorial and state = state_arremessando
 {
 	draw_text_transformed_color(280,100,"Use todas as setinhas para mirar a bola",2,2,0,c_black,c_black,c_black,c_black, 255)
 	draw_text_transformed_color(280,150,"Aperte ESPACO para arremessar a bola",2,2,0,c_black,c_black,c_black,c_black, 255)
+}
+if room = room_tutorial and !instance_exists(inst_131DCE28)
+{
+	draw_text_transformed_color(280,400,"Parabens! Voce ganhou!! Aperte R Para voltar ao menu!",2,2,0,c_black,c_black,c_black,c_black, 255)
 }

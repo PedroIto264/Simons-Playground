@@ -29,7 +29,9 @@
     {"x":16.0,"y":16.0,},
     {"x":0.0,"y":16.0,},
   ],
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":64,"eventType":8,"collisionObjectId":null,},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {

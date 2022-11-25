@@ -12,6 +12,7 @@
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":0,},
     {"id":{"name":"obj_bola","path":"objects/obj_bola/obj_bola.yy",},"order":1,},
+    {"id":{"name":"obj_bola_fake","path":"objects/obj_bola_fake/obj_bola_fake.yy",},"order":9,},
     {"id":{"name":"obj_game_manager","path":"objects/obj_game_manager/obj_game_manager.yy",},"order":8,},
     {"id":{"name":"BFG_Division","path":"sounds/BFG_Division/BFG_Division.yy",},"order":0,},
     {"id":{"name":"spr_cesta","path":"sprites/spr_cesta/spr_cesta.yy",},"order":7,},

@@ -30,6 +30,8 @@
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":64,"eventType":8,"collisionObjectId":null,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_destruidor_de_bolas","path":"objects/obj_destruidor_de_bolas/obj_destruidor_de_bolas.yy",},},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_cesta","path":"objects/obj_cesta/obj_cesta.yy",},},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_colisao_cesta","path":"objects/obj_colisao_cesta/obj_colisao_cesta.yy",},},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_colisao_ganhou111","path":"objects/obj_colisao_ganhou111/obj_colisao_ganhou111.yy",},},
   ],
   "properties": [],
   "overriddenProperties": [],

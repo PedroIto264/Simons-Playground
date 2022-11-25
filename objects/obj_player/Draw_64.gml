@@ -25,7 +25,13 @@ if room = room_tutorial and state = state_livre
 	draw_text_transformed_color(280,300,"Ande ate o quadrado vermelho para continuar",2,2,0,c_black,c_black,c_black,c_black, 255)
 	
 }
-else if state = state_segurando_bola
+else if room = room_tutorial and state = state_segurando_bola
 {
-	
+	draw_text_transformed_color(280,100,"Agora que está no modo segurando a bola, va para",2,2,0,c_black,c_black,c_black,c_black, 255)
+	draw_text_transformed_color(280,150,"um lugar que sentir confortavel para acertar a cesta",2,2,0,c_black,c_black,c_black,c_black, 255)
+}
+else if room = room_tutorial and state = state_arremessando
+{
+	draw_text_transformed_color(280,100,"Use todas as setinhas para mirar a bola",2,2,0,c_black,c_black,c_black,c_black, 255)
+	draw_text_transformed_color(280,150,"Aperte ESPACO para arremessar a bola",2,2,0,c_black,c_black,c_black,c_black, 255)
 }

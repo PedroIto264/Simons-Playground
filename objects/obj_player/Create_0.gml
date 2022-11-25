@@ -44,7 +44,7 @@ state_segurando_bola = function() //Esse state vai ser a mesma coisa que o livre
 	if key_teste2 and state = state_segurando_bola
 	{
 		state = state_arremessando
-		instance_create_layer(obj_player.x, obj_player.y, "Instances", obj_bola)
+		instance_create_layer(obj_player.x, obj_player.y, "Bola", obj_bola)
 	}
 	
 	

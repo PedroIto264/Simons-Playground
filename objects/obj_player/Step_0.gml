@@ -13,9 +13,11 @@ state() //Inicializa a State Machine
 if key_teste1
 {
 	state = state_segurando_bola
+	instance_destroy(obj_bola)
 }
 
 if key_teste3
 {
 	state = state_livre
+	instance_destroy(obj_bola)
 }

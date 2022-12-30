@@ -22,6 +22,7 @@
     {"id":{"name":"room_tutorial","path":"rooms/room_tutorial/room_tutorial.yy",},"order":2,},
     {"id":{"name":"obj_toca_musica","path":"objects/obj_toca_musica/obj_toca_musica.yy",},"order":2,},
     {"id":{"name":"obj_destruidor_de_bolas","path":"objects/obj_destruidor_de_bolas/obj_destruidor_de_bolas.yy",},"order":0,},
+    {"id":{"name":"matematica_unificada","path":"scripts/matematica_unificada/matematica_unificada.yy",},"order":15,},
     {"id":{"name":"motion_bola","path":"scripts/motion_bola/motion_bola.yy",},"order":0,},
     {"id":{"name":"obj_quadrado_vermelho","path":"objects/obj_quadrado_vermelho/obj_quadrado_vermelho.yy",},"order":1,},
     {"id":{"name":"spr_botao_tutorial","path":"sprites/spr_botao_tutorial/spr_botao_tutorial.yy",},"order":5,},
@@ -35,12 +36,11 @@
     {"id":{"name":"room_teste","path":"rooms/room_teste/room_teste.yy",},"order":0,},
   ],
   "Options": [
-    {"name":"HTML5","path":"options/html5/options_html5.yy",},
     {"name":"Linux","path":"options/linux/options_linux.yy",},
     {"name":"macOS","path":"options/mac/options_mac.yy",},
-    {"name":"Main","path":"options/main/options_main.yy",},
     {"name":"Windows","path":"options/windows/options_windows.yy",},
     {"name":"operagx","path":"options/operagx/options_operagx.yy",},
+    {"name":"Main","path":"options/main/options_main.yy",},
   ],
   "defaultScriptType": 1,
   "isEcma": false,
@@ -78,6 +78,6 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2022.9.1.51",
+    "IDEVersion": "2022.11.1.56",
   },
 }
